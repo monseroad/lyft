@@ -1,0 +1,17 @@
+.foto-perfil{
+	background-image: url("../img/avatar1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 300px;
+}
+
+.joined{
+	background-color: #E0DFDF;
+	padding: 4px;
+	border-radius: 6px;
+
+}
+
+.drive{
+	background-color: #747483;
+}

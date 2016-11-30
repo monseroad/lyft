@@ -1,0 +1,25 @@
+body{
+	background-image: url("../img/lyft_fondo1.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 580px;
+
+}
+
+.logo{
+	width: 50%;
+	margin-top: 5%;
+}
+
+.boton{
+	margin-top: 80%;
+
+}
+
+.signup{
+	background-color: rgba(241, 68, 127, 0.73);
+}
+
+.login{
+	background-color: rgba(0, 0, 0, 0.3);
+}
